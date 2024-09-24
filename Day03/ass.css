@@ -1,0 +1,22 @@
+.container{
+   position: relative;
+   left:200px;
+   border-radius: 20px;
+}
+.content{
+   position: relative;
+   bottom: -150px;
+   left: 250px;
+}
+.last{
+    position: relative;
+    text-align:justify;
+     border-radius: 20px;
+     
+}
+.words{
+    position: relative;
+    left:30px;
+    bottom: -15px;
+}
+ 
